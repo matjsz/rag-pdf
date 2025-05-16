@@ -36,12 +36,9 @@ No arquivo `.env.prod` ajuste as seguintes variáveis:
 ```
 OPENAI_API_KEY=chave-da-openai
 OPENAI_MODEL_NAME=gpt-4o # ou outro modelo
-
-MILVUS_HOST=milvus-standalone
-MILVUS_PORT=19530
-
-API_URL=http://localhost:5000
 ```
+
+O restante, deixe como está.
 
 ### Opção 1 (recomendado): Docker
 
