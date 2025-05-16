@@ -1,0 +1,17 @@
+setuptools
+fastapi[standard]
+uvicorn
+python-multipart
+pydantic
+pymilvus
+langchain
+langchain-openai
+langgraph
+openai
+PyPDF2
+pytesseract
+pdf2image
+streamlit
+requests
+numpy
+randomname
